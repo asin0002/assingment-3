@@ -1,0 +1,29 @@
+/* Custom CSS for NASA APOD Prototype */
+
+/* Glow effect for buttons to match the mockup */
+.shadow-glow {
+    box-shadow: 0 0 20px rgba(37, 99, 235, 0.4);
+}
+
+/* Prototype transition animation */
+.fade-in {
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* mobile layout*/
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+}
