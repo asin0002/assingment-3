@@ -5,7 +5,7 @@ Assignment 3
 
 ## What I did
 
-I built a prototype for my NASA APOD web app using HTML and Tailwind CSS. The goal was to make sure the user flow actually felt smooth—moving from picking a date to seeing the "Pillars of Creation" result. I kept it all on one page to make it feel more like a modern app.
+I built a prototype for my NASA APOD web app using HTML and Tailwind CSS. The goal was to make sure the user flow actually felt smooth moving from picking a date to seeing the "Pillars of Creation" result. I kept it all on one page to make it feel more like a modern app.
 
 ## Resources
 
